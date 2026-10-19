@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Experiment 7: Conversion of HTML into JSP
 
 ## 📖 Overview
@@ -60,4 +60,4 @@ This generates `target/servlet.war`.
 - Submitting the form posts to `http://localhost:8080/servlet/hello` and displays `result.jsp`.
 =======
 # html-to-jsp-conversion
->>>>>>> 896bdd8128c82cac67dc1a8622db032db6d15ce2
+ 896bdd8128c82cac67dc1a8622db032db6d15ce2
